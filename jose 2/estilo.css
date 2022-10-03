@@ -1,0 +1,27 @@
+body {
+    width: 80;
+    margin: 35px auto;
+    background-image: linear-gradient(to right top, #6b78d1, #6d80d4, #7188d6, #7590d8, #7a97d9, #7996d7, #7996d5, #7895d3, #718cce, #6b83c8, #667ac2, #6171bc);
+   }
+    h1{
+       color: rgba(225, 235, 239, 0.813);
+       text-align: center;
+     }   
+      table {
+        width: 100%;
+     }
+     button,input{
+        width: 100%;
+        font-size: 150%;
+     }
+     button{
+      background-color:#6190abb6 ;
+    
+   }
+     input{
+        text-align: center;
+        outline-color:rgb(246, 242, 242)
+     }
+     .ac {
+        color:rgba(92, 70, 75, 0.695)
+     }
